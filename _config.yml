@@ -9,12 +9,12 @@ permalink:        pretty
 title:            Dan Irons
 tagline:          'A data guy'
 description:      '¯\_(ツ)_/¯'
-url:              http://hyde.getpoole.com
+# url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Dan Irons'
+  url:            https://twitter.com/_Dan_Irons
 
 paginate:         5
 
